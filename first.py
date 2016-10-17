@@ -1,2 +1,4 @@
 # ISD
-print("Hello World")
+
+>>> print("Hello World")
+>>> print("I am in ISD class right now")
